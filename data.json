@@ -1,0 +1,14 @@
+{
+    "SF01VIP27": {
+      "id": "SF01VIP27",
+      "name": "Arpita Panda",
+      "domain": "Python Development",
+      "duration": "1 Month"
+    },
+    "SF01VIP78": {
+      "id": "SF01VIP78",
+      "name": "Dolly Kumari Verma",
+      "domain": "CyberSecurity",
+      "duration": "1 Month"
+    }
+}
